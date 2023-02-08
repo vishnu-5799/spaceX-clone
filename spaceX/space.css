@@ -1,0 +1,181 @@
+body{
+    margin: 0;
+
+}
+.bg1{
+    background-image: url(./bg1.png);
+    height: 900px;
+    width: 100%;
+}
+.logo{
+    width: 245px;
+    height: 61px;
+    margin-left: 129px;
+    margin-top: -83px;
+}
+.l1{
+    color: white;
+    padding-top: 359px;
+    padding-left: 206px;
+    font-size: medium;
+}
+.l2{
+    color: white;
+    padding-left: 200px;
+}
+.watch{
+    width: 129px;
+    height: 50px;
+    margin-left: 199px;
+    background-color: transparent;
+    color: white;
+    cursor: pointer;
+    border-color: white;
+}
+.watch:hover{
+    color: black;
+    background-color: white;
+   
+
+
+}
+.bg2{
+    background-image: url(./bg2.png);
+    width: 100%;
+    height: 900px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 10px;
+    margin-top: -27px;
+
+}
+.l3{
+    color: white;
+    padding-top: 600px;
+    padding-left: 210px;
+    font-size: medium;
+}
+.l4{
+    color: white;
+    padding-left: 206px;
+    
+}
+.head{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    color: white;
+    font-family: monospace;
+    padding-top: 24px;
+    padding-left: 370px;
+}
+li:hover{
+    text-decoration: underline;
+}
+.head1{
+    display: inline;
+    padding-right: 7px;
+    letter-spacing: .3;
+    cursor: pointer;
+    font-weight: 700;
+}
+.head2{
+    display: inline;
+    padding-left: 200px;
+    cursor: pointer;
+    font-weight: 700;
+}
+.bar{
+    display: inline-block;
+    cursor: pointer;
+    margin-top: 8px;
+  }
+.bar1, .bar2, .bar3 {
+    width: 20px;
+    height: 2px;
+    background-color: white;
+    margin: 6px 0;
+    margin-right: 123px;
+    transition: 0.4s;
+  }
+.re{
+    width: 129px;
+    height: 50px;
+    margin-left: 210px;
+    background-color: transparent;
+    color: white;
+    cursor: pointer;
+    border-color: white;
+}
+.re:hover{
+    color: black;
+    background-color: white;
+}
+.bg3{
+    background-image: url(./bg3.png);
+    width: 100%;
+    height: 900px;
+    margin-top: -10px;
+}
+.head3{
+    color: white;
+}
+.bg31{
+    padding-top: 31%;
+    padding-left: 206px;
+}
+.learn{
+    width: 129px;
+    height: 50px;
+    background-color: transparent;
+    color: white;
+    cursor: pointer;
+    border-color: white;
+}
+.learn:hover{
+    color: black;
+    background-color: white;
+}
+.bg4{
+    background-image: url(./bg4.png);
+    width: 100%;
+    height: 880px;
+    background-repeat: no-repeat;
+}
+.bg41{
+    padding-top: 40%;
+    padding-left: 206px;
+}
+.l5{
+    color: white;
+}
+.last{
+    background-color: black;
+    width: 100%;
+    height: 100px;
+    margin-top: -17px
+}
+.last1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding-top: 25px;
+    padding-left: 16px;
+}
+.last2{
+    display: inline;
+    color: white;
+    padding-right: 10px;
+    cursor: pointer;
+}
+.last2:hover{
+    color: gray;
+}
+.last3{
+    color: white;
+    display: inline;
+    padding-right: 10px;
+    font-family: monospace
+}
+
+
